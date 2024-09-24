@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d31f2183780904042b3fe17242f0b9bd
+  - enabled: 1
+    path: Assets/Scenes/Mingame.unity
+    guid: 50aa50cd782b90d4283942184ecc0aff
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/UI Icons - 3D Low Poly Style/Demo Scene/Demo Scene.unity
+    guid: 15f23afa1eef50d4fb9f119ebc5c7f72
+  - enabled: 1
+    path: Assets/Scenes/Endgame.unity
+    guid: 81d6fb7d1a5b87f4bb7677b9dde5709a
+  - enabled: 1
+    path: Assets/Scenes/Vitoria.unity
+    guid: 706ab5a5643cd7c4fbe808afd07252fb
+  m_configObjects: {}
